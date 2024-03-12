@@ -5,7 +5,7 @@ const sequelize = new Sequelize(
   'if0_36145781',
   'cqWTAXQ5R9NkCg',
   {
-    host: 'sql105.infinityfree.com',
+    host: 'sql105.infinityfree.com:3306',
     dialect: 'mysql',
     logging: false,
   }
