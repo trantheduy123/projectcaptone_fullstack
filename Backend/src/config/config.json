@@ -3,7 +3,7 @@
     "username": "if0_36145781",
     "password": "cqWTAXQ5R9NkCg",
     "database": "if0_36145781_websitebooking",
-    "host": "sql105.infinityfree.com",
+    "host": "php-myadmin.net",
     "dialect": "mysql",
     "logging": false,
     "query": { "raw": true },
@@ -13,14 +13,14 @@
     "username": "root",
     "password": "cqWTAXQ5R9NkCg",
     "database": "database_test",
-    "host": "sql105.infinityfree.com",
+    "host": "php-myadmin.net",
     "dialect": "mysql"
   },
   "production": {
     "username": "if0_36145781",
     "password": "cqWTAXQ5R9NkCg",
     "database": "if0_36145781_websitebooking",
-    "host": "sql105.infinityfree.com",
+    "host": "php-myadmin.net",
     "dialect": "mysql"
   }
 }
