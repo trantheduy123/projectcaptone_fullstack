@@ -3,7 +3,7 @@ const { Sequelize } = require('sequelize');
 const sequelize = new Sequelize(
   'if0_36145781_websitebooking',
   'if0_36145781',
-  'sql105.infinityfree.com',
+  'cqWTAXQ5R9NkCg',
   {
     host: 'sql105.infinityfree.com',
     dialect: 'mysql',

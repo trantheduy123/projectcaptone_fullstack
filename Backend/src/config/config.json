@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "if0_36145781",
-    "password": "sql105.infinityfree.com",
+    "password": "cqWTAXQ5R9NkCg",
     "database": "if0_36145781_websitebooking",
     "host": "sql105.infinityfree.com",
     "dialect": "mysql",
@@ -10,15 +10,15 @@
     "timezone": "+07:00"
   },
   "test": {
-    "username": "if0_36145781",
-    "password": "sql105.infinityfree.com",
+    "username": "root",
+    "password": "cqWTAXQ5R9NkCg",
     "database": "database_test",
     "host": "sql105.infinityfree.com",
     "dialect": "mysql"
   },
   "production": {
     "username": "if0_36145781",
-    "password": "sql105.infinityfree.com",
+    "password": "cqWTAXQ5R9NkCg",
     "database": "if0_36145781_websitebooking",
     "host": "sql105.infinityfree.com",
     "dialect": "mysql"
